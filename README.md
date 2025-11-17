@@ -6,4 +6,4 @@
 
  // Made an application that can change different things on the page. 
 
-// Gavin -
+// Gavin - All of the buttons work to manipulate the dom and i like the photo you used.
